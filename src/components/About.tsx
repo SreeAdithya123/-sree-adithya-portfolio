@@ -32,11 +32,16 @@ const About = () => {
         <div className="mt-12 text-gray-700 leading-relaxed">
           <p className="mb-4">
             I am a passionate developer with a strong foundation in modern web technologies.
-            My journey in technology began [Your Story Here] and I've been growing ever since.
+My journey in technology began with YouTube tutorials, where I first explored development. As I delved deeper, AI, space, electronics, and cutting-edge technology inspired me to explore electronics and communication.
+
+I have built a face recognition program for attendance marking, which I successfully installed on a Raspberry Pi. Additionally, I have worked on a satellite project to receive real-time satellite images, and I am currently planning to launch a weather station soon.
+
+Driven by curiosity and innovation, I constantly strive to bridge the gap between software and hardware, pushing the boundaries of technology.
           </p>
           <p>
-            When I'm not coding, you can find me [Your Interests/Hobbies].
-            I believe in continuous learning and pushing the boundaries of what's possible.
+           When I'm not coding, you can find me listening to music, exploring space, AI, and electronics, or capturing moments through photography. I love blending technology with creativity—whether it's developing AI applications, working on embedded systems, or framing the perfect shot.
+
+I believe in continuous learning and pushing the boundaries of what's possible, always striving to innovate and build technology that makes a difference
           </p>
         </div>
       </div>
