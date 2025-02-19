@@ -9,14 +9,14 @@ const Contact = () => {
         <div className="max-w-4xl mx-auto">
           <div className="flex flex-wrap justify-center gap-8 mb-12">
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:adithya.kandikonda@sasi.ac.in"
               className="flex items-center gap-2 px-6 py-3 bg-white rounded-full shadow-md hover:shadow-lg transition duration-300"
             >
               <Mail className="w-5 h-5" />
               <span>Email Me</span>
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/SreeAdithya123"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 bg-white rounded-full shadow-md hover:shadow-lg transition duration-300"
@@ -25,7 +25,7 @@ const Contact = () => {
               <span>GitHub</span>
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/adithya-kandikonda-542a90327"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 bg-white rounded-full shadow-md hover:shadow-lg transition duration-300"
